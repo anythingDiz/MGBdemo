@@ -1,0 +1,2 @@
+# MGBdemo
+mybatis generator demo
