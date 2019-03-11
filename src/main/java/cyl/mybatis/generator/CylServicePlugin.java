@@ -189,7 +189,7 @@ public class CylServicePlugin extends PluginAdapter {
         return method;
     }
 
-    //首字母小写
+    //首字母小写...
     private String lowerFirstCase(String str){
         if(str != null && str.length() > 0){
             StringBuilder sb = new StringBuilder(str);
